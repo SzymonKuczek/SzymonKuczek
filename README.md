@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Szymon
 - 👀 I’m interested in reading, languages and music
-- 🌱 I’m currently learning python, html and css
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS
 - 📫 szymon_kuczek@wp.pl
 
 <!---

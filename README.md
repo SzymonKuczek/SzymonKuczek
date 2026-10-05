@@ -1,7 +1,7 @@
 # Cześć, jestem Szymon 👋
 
 ### Student Energetyki i Budownictwa @ AGH
-**Energetyka (6 sem.) | Budownictwo (2 sem.)**
+**Energetyka (7 sem.) | Budownictwo (3 sem.)**
 
 Nie jestem typowym programistą. Jestem przyszłym inżynierem, który wykorzystuje kod i symulacje, aby lepiej projektować i rozumieć rzeczywistość fizyczną. Łączę wiedzę o mechanice płynów i konstrukcjach z narzędziami obliczeniowymi.
 
